@@ -15,4 +15,6 @@ The project aims to preserve openness, both in terms of the data as in terms of 
 ### Named entities from sources on Yugoslav nonalignment
 These are pilot datasets from a small corpus of archival and print sources concerning the activities of the Socialist Alliance of the Working People of Yugoslavia in the 1950s.
 
-The creation of these datasets was made by using a BERT-like language model fine-tuned for Slavic languages to conduct a pilot named-entity extraction on a limited corpus of Yugoslav sources, creating a small dataset of organizations and persons involved in the foreign relations of the Yugoslav communist regime.
+The creation of these datasets was made by using a BERT-like language model fine-tuned for Slavic languages to conduct a pilot named-entity extraction on a limited corpus of Yugoslav sources. The data was then normalized with a Python script using DeepSeek's API, which can be found on the repository. Using DeepSeek posed advantages, but also the well-known risk of hallucination, which is why the data had to be checked and cleaned on OpenRefine. That also allowed for data reconciliation with Wikidata's base.
+
+creating a small dataset of organizations and persons involved in the foreign relations of the Yugoslav communist regime.
