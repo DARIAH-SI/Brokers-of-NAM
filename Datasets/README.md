@@ -1,4 +1,4 @@
-# Data
+# Datasets
 
 This folder contains datasets containing data from the project.
 
