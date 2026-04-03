@@ -13,4 +13,4 @@ The project aims to preserve openness, both in terms of the data as in terms of 
 The repository contains files and materials for the project and is structured as follows: 
 
 - [Notebooks](./Notebooks/): Jupyter notebooks, containing source code for the project.
-- [Datasetes](./Datasets/): Diverse datasets containing data from the project, along with exploratory visualizations.
+- [Datasets](./Datasets/): Diverse datasets containing data from the project, along with exploratory visualizations.
