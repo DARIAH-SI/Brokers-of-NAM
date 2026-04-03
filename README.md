@@ -1,6 +1,7 @@
 # Brokers-of-NAM
 Brokers-of-NAM analyzes the history of the Non-Aligned Movement (NAM) through the lens of transnational political networks and relying on an innovative methodological approach combining biographical and network analysis. 
 
+<<<<<<< digitalkosovski-patch-1
 ## Overview of the project
 The project analyzes the transnational networks of the Non-aligned Movement through structured data coming from the study of five biographies. 
 
@@ -10,3 +11,8 @@ The project aims to preserve openness, both in terms of the data as in terms of 
 
 ## Contents of the repository
 
+=======
+The repository contains files and materials for the project and is structured as follows: 
+
+- [Notebooks](./Notebooks/): Jupyter notebooks, containing source code for the project.
+>>>>>>> main
