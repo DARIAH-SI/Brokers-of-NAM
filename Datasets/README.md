@@ -1,4 +1,6 @@
-# Data
+# Datasets
+
+This folder contains datasets containing data from the project.
 
 ### 1. A collection of named entities from sources on Yugoslav nonalignment
 These are pilot datasets created from a small corpus of Yugoslav archival and print sources concerning the activities of the Socialist Alliance of the Working People of Yugoslavia in the 1950s. They serve as partial basis for our inquiry on the life of [Veljko Vlahović](https://fr.wikipedia.org/wiki/Veljko_Vlahovi%C4%87) and his contribution to nonalignment.
